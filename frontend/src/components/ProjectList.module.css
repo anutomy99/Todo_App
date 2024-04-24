@@ -1,0 +1,24 @@
+
+.ProjectListContainer{
+    height: 100%;
+}
+table{
+    margin-left:250px;
+    width: 70%;
+    background-color: rgba(185, 222, 250, 0.773);
+}
+table thead{
+    height: 40px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(97, 176, 237);
+}
+
+table tbody tr td button {
+    width: 80px;
+    margin-left: 10px;
+}
+table tbody tr {
+    height: 60px;
+
+}
+

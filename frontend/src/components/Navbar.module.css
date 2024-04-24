@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    padding: 10px 20px; 
+    background-color: #cabfbfbf; 
+}
+
+.navbarMenu {
+    list-style-type: none;
+    margin-left: 1000px;
+    
+}
+
+.navbarMenu li {
+    padding-top: 5px;
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+
+
+.navbarMenu li a {
+    text-decoration: none;
+    color: #000000; 
+}
+
+.navbarMenu li a:hover {
+    color: #0c23d2; 
+}

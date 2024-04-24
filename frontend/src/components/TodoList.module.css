@@ -1,0 +1,19 @@
+.TodoContainer .todoButton{
+    background-color:rgb(57, 87, 255) ;
+    height: 50px;
+    width: 200px;
+    color: white;
+    border-radius: 2px;
+    border: none;
+    margin-left: 250px;
+    margin-top: 60px;
+}
+.TodoContainer button{
+ width: 100px;
+}
+
+ .checkbox{
+    height: 20px;
+    width: 40px;
+    margin-top: 10px;
+}

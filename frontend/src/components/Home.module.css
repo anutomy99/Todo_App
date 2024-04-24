@@ -1,0 +1,26 @@
+.homeContainer {
+    padding: 20px;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.HomeBtn {
+    background-color: white;
+    color: black;
+    width:190px;
+    border: 2px solid #2f813e;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 530px;
+}
+
+button:hover {
+    color: #eff6f2;
+    background-color:#2f813e;
+}
